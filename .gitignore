@@ -5,3 +5,5 @@
 /logs/
 /ObjectDetection/
 /runs/
+/.idea/
+/.gitignore
