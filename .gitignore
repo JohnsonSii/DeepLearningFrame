@@ -1,0 +1,7 @@
+/data/
+/checkpoints/
+/.ipynb_checkpoints/
+/files/
+/logs/
+/ObjectDetection/
+/runs/
